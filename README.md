@@ -1,4 +1,4 @@
-# kafka-demo
+# kafka-playground
 kafka playground to publish and receive messages using topics
 1. setup kafka by following instructions from https://kafka.apache.org/quickstart
 2. if using windows machine, then install Cygwin64 Terminal to run cmds
